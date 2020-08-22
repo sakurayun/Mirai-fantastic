@@ -1,0 +1,9 @@
+[submodule "Mirai-Launcher"]
+	path = Mirai-Launcher
+	url = git@github.com:sakurayun/Mirai-Launcher.git
+[submodule "Mirai-Plugins"]
+	path = Mirai-Plugins
+	url = git@github.com:sakurayun/Mirai-Plugins.git
+[submodule "Mirai-SDK"]
+	path = Mirai-SDK
+	url = git@github.com:sakurayun/Mirai-SDK.git
